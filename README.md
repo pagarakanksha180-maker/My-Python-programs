@@ -1,2 +1,2 @@
 # innovation in python
-This is my innovation hub
+This is my python code collection
